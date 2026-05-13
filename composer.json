@@ -1,0 +1,6 @@
+{
+    "name": "hp/quizbigdata",
+    "require": {
+        "mongodb/mongodb": "^2.1"
+    }
+}
